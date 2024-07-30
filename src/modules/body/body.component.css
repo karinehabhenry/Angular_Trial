@@ -11,6 +11,10 @@
     width: 45%;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .Point{
     font-weight: 700;
 }
